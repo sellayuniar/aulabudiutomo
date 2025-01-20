@@ -61,8 +61,7 @@ export default function Sejarah() {
             href="https://kebudayaan.kemdikbud.go.id/bpcbyogyakarta/bangunan-sma-negeri-11-yogyakarta-tempat-bersejarah-berlangsungnya-kongres-i-budi-utomo/"
             className="text-sm md:text-base hover:text-blue-500"
           >
-            Sumber:
-            https://kebudayaan.kemdikbud.go.id/bpcbyogyakarta/bangunan-sma-negeri-11-yogyakarta-tempat-bersejarah-berlangsungnya-kongres-i-budi-utomo/
+            Sumber: Kebudayaan Kemendikbud Bangunan SMAN 11 Yogyakarta
           </a>
         </div>
       </div>
