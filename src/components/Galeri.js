@@ -6,8 +6,11 @@ import AulaDepanTiga from "../../public/depan-3.jpeg";
 import Image from "next/image";
 export default function Galeri() {
   return (
-    <section className="w-full my-16 md:px-32 px-5 lg:pb-20" id="galeri">
-      <h1 className="md:text-3xl text-xl mb-12 text-center font-bold">
+    <section
+      className="w-full pb-56 pt-24 md:px-32 px-5 lg:pb-56 bg-[#F9DD6B] bg-opacity-20"
+      id="galeri"
+    >
+      <h1 className="md:text-3xl text-xl mb-24 text-center font-bold">
         Galeri
       </h1>
       <div className="flex flex-wrap lg:justify-between gap-y-4 lg:gap-x-1 items-center">

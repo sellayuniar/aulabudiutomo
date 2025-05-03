@@ -16,7 +16,7 @@ export default function Header() {
           </div>
           <div className="flex flex-col items-center">
             <h1 className="lg:text-2xl md:text-xl text-sm font-bold">
-              Aula Budi Oetomo
+              Aula Boedi Oetomo
             </h1>
             <h3 className="lg:text-sm text-xs font-bold">SMAN 11 Yogyakarta</h3>
           </div>

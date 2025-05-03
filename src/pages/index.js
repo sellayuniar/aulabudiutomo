@@ -5,13 +5,13 @@ import Header from "@/components/Header";
 import Hero from "@/components/Hero";
 import Kontak from "@/components/Kontak";
 import Sejarah from "@/components/Sejarah";
-import Logo from "../../public/SMA-11-Jogja-Logo.ico";
+import ArtikelKartini from "@/components/ArtikelKartini";
 import Head from "next/head";
 export default function Home() {
   return (
     <div>
       <Head>
-        <title>Aula Budi Oetomo</title>
+        <title>Aula Boedi Oetomo</title>
         <link
           rel="icon"
           href="/SMA-11-Jogja-Logo.ico"
@@ -22,6 +22,7 @@ export default function Home() {
       <Hero />
       <Sejarah />
       <Artikel />
+      <ArtikelKartini />
       <Galeri />
       <Kontak />
       <Footer />

@@ -1,10 +1,10 @@
 export default function Kontak() {
   return (
     <section
-      className="w-full mt-16 pb-24 pt-16 md:px-32 px-5 lg:h-[650px] h-fit bg-[#F9DD6B] bg-opacity-20"
+      className="w-full mb-56 mt-40 md:px-32 px-5 h-fit "
       id="kontak-kami"
     >
-      <h1 className="md:text-3xl text-xl mb-12 text-center font-bold">
+      <h1 className="md:text-3xl text-xl mb-24 text-center font-bold">
         Kontak Kami
       </h1>
       <div className="flex justify-evenly lg:flex-row flex-col-reverse">

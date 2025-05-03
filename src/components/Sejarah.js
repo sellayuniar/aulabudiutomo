@@ -3,13 +3,11 @@ import AulaDepanDua from "../../public/depan.jpeg";
 import Image from "next/image";
 export default function Sejarah() {
   return (
-    <section
-      className="w-full md:my-16 my-8 lg:px-32 lg:pb-20 px-8"
-      id="sejarah"
-    >
-      <h1 className="md:text-3xl lg:mt-20 text-xl md:mb-12 mb-5 lg:mb-8 text-center font-bold">
-        Sejarah
+    <section className="w-full md:my-32 mt-20 my-8 lg:px-44 px-8" id="sejarah">
+      <h1 className="md:text-3xl lg:mt-20 text-xl md:mb-12 mb-5 lg:mb-20 text-center font-bold">
+        Sejarah Singkat
       </h1>
+
       <div className="flex lg:flex-row flex-col">
         <div className="lg:w-1/2 w-full">
           <div className="flex flex-col md:flex-row lg:flex-col gap-3 justify-between">
