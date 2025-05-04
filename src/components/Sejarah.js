@@ -58,6 +58,13 @@ export default function Sejarah() {
             dengan mencari yang baru (Sartono Kartodirjo, 1988).
           </p>
           <br />
+          <p className="text-sm md:text-base">
+            Sekarang gedung ini digunakan untuk aula SMU 11 Yogyakarta. Bangunan
+            ini telah ditetapkan sebagai cagar budaya melalui Kep.Men P&K RI No.
+            132/M/1998. Gedung Budi Utomo terletak di Jalan A.M Sangaji No. 38,
+            Yogyakarta.
+          </p>
+          <br />
           <a
             href="https://kebudayaan.kemdikbud.go.id/bpcbyogyakarta/bangunan-sma-negeri-11-yogyakarta-tempat-bersejarah-berlangsungnya-kongres-i-budi-utomo/"
             className="text-sm md:text-base hover:text-blue-500"
