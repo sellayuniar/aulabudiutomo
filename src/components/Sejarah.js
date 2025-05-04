@@ -59,7 +59,7 @@ export default function Sejarah() {
           </p>
           <br />
           <p className="text-sm md:text-base">
-            Sekarang gedung ini digunakan untuk aula SMU 11 Yogyakarta. Bangunan
+            Sekarang gedung ini digunakan untuk aula SMA Negeri 11 Yogyakarta. Bangunan
             ini telah ditetapkan sebagai cagar budaya melalui Kep.Men P&K RI No.
             132/M/1998. Gedung Budi Utomo terletak di Jalan A.M Sangaji No. 38,
             Yogyakarta.
