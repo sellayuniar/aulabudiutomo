@@ -3,8 +3,11 @@ import AulaDepanDua from "../../public/depan.jpeg";
 import Image from "next/image";
 export default function Sejarah() {
   return (
-    <section className="w-full md:my-32 mt-20 my-8 lg:px-44 px-8" id="sejarah">
-      <h1 className="md:text-3xl lg:mt-20 text-xl md:mb-12 mb-5 lg:mb-20 text-center font-bold">
+    <section
+      className="w-full md:my-32 mt-10 md:mt-[250px] lg:mt-10 mb-32 lg:px-44 px-8 xl:mt-44"
+      id="sejarah"
+    >
+      <h1 className="md:text-3xl lg:mt-20 text-base md:mb-12 mb-10 lg:mb-20 text-center font-bold">
         Sejarah Singkat
       </h1>
 
@@ -14,12 +17,12 @@ export default function Sejarah() {
             <Image
               src={AulaDepanDua}
               alt=""
-              className="lg:w-3/4 md:w-[350px] md:h-[300px] w-full object-cover"
+              className="lg:w-3/4 md:w-[350px] md:h-[300px] h-[150px] w-full object-cover "
             />
             <Image
               src={AulaDepanSatu}
               alt=""
-              className="lg:w-3/4 md:w-[350px] md:h-[300px] w-full object-cover"
+              className="lg:w-3/4 md:w-[350px] md:h-[300px] h-[150px] w-full object-cover"
             />
           </div>
         </div>

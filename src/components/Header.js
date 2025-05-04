@@ -4,7 +4,7 @@ import Image from "next/image";
 
 export default function Header() {
   return (
-    <nav className="w-full h-[70px] lg:h-24 flex bg-[#F9DD6B] lg:px-32 md:px-10 md:py-5 py-1 items-center justify-between">
+    <nav className="w-full h-[70px] lg:h-24 flex bg-[#F9DD6B] xl:px-32 md:px-10 md:py-5 py-1 items-center justify-between">
       <div className="mr-32">
         <Link href="/" className="flex items-center cursor-pointer">
           <div>

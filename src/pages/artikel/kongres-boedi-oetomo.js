@@ -26,6 +26,7 @@ export default function Home() {
         Kongres menetapkan tokoh-tokoh yang diusulkan menjadi calon anggota Volksraad, yaitu Soetomo, Sastrowidjono, Woerjaningrat, dan Tjokroaminoto. Dalam program organisasi dibahas mengenai kedudukan organisasi yang telah ditetapkan sebagai partai politik yang akan memperjuangkan dengan berbagai cara demi terbentuknya kedaulatan rakyat. 
         "
         sumber="https://repositori.kemdikbud.go.id/8300/1/BUKU%20PANDUAN%20MUSEUM.pdf"
+        judulLink="Kemendikbud Buku Panduan Museum"
       />
       <Footer />
     </div>

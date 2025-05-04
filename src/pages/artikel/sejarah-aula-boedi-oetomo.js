@@ -16,6 +16,7 @@ Pada tahun 1927 gedung ini digunakan untuk sekolah guru (Holland Inlandsche Kwee
         konten2="Kweekschool voor Inlandsche Onderwijzen Djokjakarta adalah sebuah sekolah guru (kweekschool) yang didirikan oleh pemerintah kolonial Belanda di Yogyakarta pada akhir abad ke-19.Dibuka pada 7 April 1897, Kweekschool ini bertujuan mendidik kaum pribumi untuk menjadi guru di sekolah-sekolah dasar (Hollandsch-Inlandsche School) pada masa penjajahan Belanda. Nama lengkapnya Sekolah Pendidikan Guru untuk Orang Pribumi di Yogyakarta. Terletak di Yogyakarta, bangunan Kweekschool ini masih ada hingga sekarang dan kini menjadi bagian dari SMA Negeri 11 Yogyakarta. Bangunannya bergaya kolonial dan memiliki nilai sejarah tinggi, karena menjadi saksi berbagai peristiwa penting dalam pergerakan nasional Indonesia. Kongres Pertama Budi Utomo (3-5 Oktober 1908) diselenggarakan di gedung ini, menjadikannya salah satu tempat penting dalam sejarah pergerakan nasional Indonesia. Aula tempat kongres berlangsung kini dikenal sebagai Aula Boedi Utomo.Gedung ini telah ditetapkan sebagai Cagar Budaya oleh Kementerian Pendidikan dan Kebudayaan RI dengan Keputusan Menteri No. 132/M/1998 dan sampai saat ini masih digunakan untuk kegiatan pendidikan dan pelestarian sejarah."
         konten3=""
         sumber="https://kebudayaan.kemdikbud.go.id/bpcbyogyakarta/gedung-budi-utomo-sma-negeri-11-yogyakarta/"
+        judulLink="Kemendikbud Gedung Budi Utomo SMAN 11 YK"
       />
       <Footer />
     </div>

@@ -4,7 +4,7 @@ export default function Kontak() {
       className="w-full mb-56 mt-40 md:px-32 px-5 h-fit "
       id="kontak-kami"
     >
-      <h1 className="md:text-3xl text-xl mb-24 text-center font-bold">
+      <h1 className="md:text-3xl text-base mb-24 text-center font-bold">
         Kontak Kami
       </h1>
       <div className="flex justify-evenly lg:flex-row flex-col-reverse">
@@ -19,7 +19,7 @@ export default function Kontak() {
             </svg>{" "}
             <a
               href="https://www.instagram.com/smanegeri11jogja/"
-              className="text-lg font-bold hover:text-blue-500"
+              className="text-base md:text-lg font-bold hover:text-blue-500"
             >
               @smanegeri11jogja
             </a>
@@ -33,7 +33,7 @@ export default function Kontak() {
             >
               <path d="M64 112c-8.8 0-16 7.2-16 16l0 22.1L220.5 291.7c20.7 17 50.4 17 71.1 0L464 150.1l0-22.1c0-8.8-7.2-16-16-16L64 112zM48 212.2L48 384c0 8.8 7.2 16 16 16l384 0c8.8 0 16-7.2 16-16l0-171.8L322 328.8c-38.4 31.5-93.7 31.5-132 0L48 212.2zM0 128C0 92.7 28.7 64 64 64l384 0c35.3 0 64 28.7 64 64l0 256c0 35.3-28.7 64-64 64L64 448c-35.3 0-64-28.7-64-64L0 128z" />
             </svg>
-            <p className="text-lg font-bold hover:text-blue-500">
+            <p className="text-base md:text-lg font-bold hover:text-blue-500">
               info@sma11jogja.sch.id
             </p>
           </span>
@@ -48,7 +48,7 @@ export default function Kontak() {
             </svg>
             <a
               href="https://sma11jogja.sch.id"
-              className="text-lg font-bold hover:text-blue-500"
+              className="text-base md:text-lg font-bold hover:text-blue-500"
             >
               https://sma11jogja.sch.id/
             </a>

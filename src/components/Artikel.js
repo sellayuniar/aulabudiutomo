@@ -23,10 +23,10 @@ export default function Artikel() {
 
   return (
     <section
-      className="w-full pb-44 pt-12 px-32 bg-[#F9DD6B] bg-opacity-20 h-fit"
+      className="w-full pb-32 md:pb-44 md:pt-12 md:px-32 bg-[#F9DD6B] bg-opacity-20 h-fit"
       id="artikel"
     >
-      <h1 className="md:text-3xl text-xl py-24 text-center font-bold">
+      <h1 className="md:text-3xl text-base py-24 text-center font-bold">
         Artikel Sejarah
       </h1>
 

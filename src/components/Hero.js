@@ -40,8 +40,8 @@ export default function Hero() {
           ))}
         </Carousel>
 
-        <div className="flex absolute items-center  bg-[#F9DD6B]/80 rounded-full p-1 drop-shadow-xl right-3 bottom-12 lg:bottom-18 lg:right-24 md:-bottom-25 xl:-bottom-20">
-          <h3 className="md:text-2xl font-bold text-sm mx-5 z-50">
+        <div className="flex absolute items-center  bg-[#F9DD6B]/80 rounded-full md:p-1 drop-shadow-xl right-3 bottom-14 lg:bottom-20 lg:right-20 md:-bottom-24 xl:-bottom-20">
+          <h3 className="md:text-2xl font-bold text-xs mx-5 z-50">
             Sejarah Cagar Budaya Aula Boedi Oetomo
           </h3>
           <Link

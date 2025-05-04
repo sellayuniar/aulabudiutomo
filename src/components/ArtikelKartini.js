@@ -23,8 +23,11 @@ export default function ArtikelKartini() {
   }, []);
 
   return (
-    <section className="w-full mt-10 px-32 lg:pb-36 h-fit pb-20" id="artikel">
-      <h1 className="md:text-3xl text-xl py-20 text-center font-bold">
+    <section
+      className="w-full mt-10 px-5 md:px-32 lg:pb-36 h-fit pb-20"
+      id="artikel"
+    >
+      <h1 className="md:text-3xl text-base md:py-20 pb-10 pt-20 text-center font-bold">
         Kegiatan Hari Kartini di Aula Boedi Oetomo
       </h1>
 
@@ -42,7 +45,7 @@ export default function ArtikelKartini() {
           ))}
         </Carousel>
         <div className="mt-5">
-          <p className="text-sm md:text-base leading-10">
+          <p className="text-sm md:text-base md:leading-10">
             Dalam rangka memperingati Hari Kartini, SMA Negeri 11 Yogyakarta
             menyelenggarakan acara Sebelas Kartinian (SEKAR) dengan mengusung
             tema <b>Kartini Masa Kini: Merawat Tradisi, Menginspirasi Negeri</b>
